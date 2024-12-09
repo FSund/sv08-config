@@ -1,4 +1,5 @@
 .moonraker.uuid
 gcodes/
 logs/
-
+database/
+config/printer-backup.cfg
