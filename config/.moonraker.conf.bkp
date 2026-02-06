@@ -25,6 +25,11 @@ cors_domains =
 
 [history]
 
+[mqtt]
+address = 192.168.1.202
+username = {secrets.mqtt_credentials.username}
+password = {secrets.mqtt_credentials.password}
+
 [timelapse]
 output_path = ~/printer_data/timelapse/
 frame_path = /tmp/timelapse/printer
