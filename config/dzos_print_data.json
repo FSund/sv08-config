@@ -1,0 +1,35 @@
+[
+    {
+        "e_pressure_nozzle_z": -1.444687499999418,
+        "d_bed_z": 0.30140625000062704,
+        "d_pressure_z": -0.3112499999995316,
+        "nozzle_temperature": 235.0,
+        "bed_temperature": 65.0,
+        "sensor_temperature": 28.77,
+        "bed_type": "None",
+        "z_offset": 2.1639999999999997,
+        "timestamp": 1770459270.078061
+    },
+    {
+        "e_pressure_nozzle_z": -1.444687499999418,
+        "d_bed_z": -0.13828124999937236,
+        "d_pressure_z": 0.13546875000046976,
+        "nozzle_temperature": 235.0,
+        "bed_temperature": 65.0,
+        "sensor_temperature": 41.98,
+        "bed_type": "None",
+        "z_offset": 2.0390000000000015,
+        "timestamp": 1770460681.519965
+    },
+    {
+        "e_pressure_nozzle_z": -1.444687499999418,
+        "d_bed_z": -0.0956249999993728,
+        "d_pressure_z": 0.08671875000047813,
+        "nozzle_temperature": 235.0,
+        "bed_temperature": 60.0,
+        "sensor_temperature": 37.7,
+        "bed_type": "High Temp Plate",
+        "z_offset": 2.066107179192322,
+        "timestamp": 1770462597.9353838
+    }
+]

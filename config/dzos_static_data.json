@@ -1,0 +1,118 @@
+{
+    "e_pressure_nozzle_z": -1.444687499999418,
+    "nozzle_factor": 5.91874383849382e-05,
+    "nozzle_temperature_factor": 0.009627720888048691,
+    "bed_factor": 0.00036612936445811183,
+    "bed_factor2": 2.9869836995646555e-08,
+    "bed_temperature_factor": 0.0026629866286095485,
+    "bed_temperature_factor2": 0.0005366029268445444,
+    "bed_type_factors": {
+        "none": 4.096902505559382e-05,
+        "cp": 0.0,
+        "ht": -6.735483130305979e-17,
+        "eng": 0.0,
+        "pei": 0.0,
+        "tcp": 0.0,
+        "st": 0.0
+    },
+    "sensor_temperature_factor": -0.009450341975402234,
+    "sensor_temperature_factor2": -0.00013374983559087057,
+    "offset_factor": 4.096902505552647e-05,
+    "statistics": {
+        "nozzle": {
+            "last_print": 8.550735239170595e-05,
+            "mean": 8.550735239170595e-05,
+            "std": 0.0,
+            "min": 8.550735239170595e-05,
+            "max": 8.550735239170595e-05
+        },
+        "nozzle_temperature": {
+            "last_print": 2.2625144086914424,
+            "mean": 2.2625144086914424,
+            "std": 0.0,
+            "min": 2.2625144086914424,
+            "max": 2.2625144086914424
+        },
+        "bed": {
+            "last_print": -3.50111204760773e-05,
+            "mean": 8.237910700537188e-06,
+            "std": 7.248770354153319e-05,
+            "min": -5.062882617874348e-05,
+            "max": 0.00011035367875643234
+        },
+        "bed_temperature": {
+            "last_print": 0.15977919771657292,
+            "mean": 0.16865581981193808,
+            "std": 0.0062767196776630455,
+            "min": 0.15977919771657292,
+            "max": 0.17309413085962067
+        },
+        "bed_type_factor_none": {
+            "last_print": 0.0,
+            "mean": 2.7312683370395877e-05,
+            "std": 1.9312983623607973e-05,
+            "min": 0.0,
+            "max": 4.096902505559382e-05
+        },
+        "bed_type_factor_cp": {
+            "last_print": 0.0,
+            "mean": 0.0,
+            "std": 0.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        "bed_type_factor_ht": {
+            "last_print": -6.735483130305979e-17,
+            "mean": -2.2451610434353264e-17,
+            "std": 3.175137197337968e-17,
+            "min": -6.735483130305979e-17,
+            "max": -0.0
+        },
+        "bed_type_factor_eng": {
+            "last_print": 0.0,
+            "mean": 0.0,
+            "std": 0.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        "bed_type_factor_pei": {
+            "last_print": 0.0,
+            "mean": 0.0,
+            "std": 0.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        "bed_type_factor_tcp": {
+            "last_print": 0.0,
+            "mean": 0.0,
+            "std": 0.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        "bed_type_factor_st": {
+            "last_print": 0.0,
+            "mean": 0.0,
+            "std": 0.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        "sensor_temperature": {
+            "last_print": -0.3562778924726642,
+            "mean": -0.34162986241079074,
+            "std": 0.052007170408212976,
+            "min": -0.39672535612738574,
+            "max": -0.27188633863232226
+        },
+        "offset": {
+            "last_print": 4.096902505552647e-05,
+            "mean": 4.096902505552647e-05,
+            "std": 0.0,
+            "min": 4.096902505552647e-05,
+            "max": 4.096902505552647e-05
+        },
+        "error": 1.4802973661668753e-16,
+        "samples": 3,
+        "outliers": 0,
+        "outlier_indices": []
+    }
+}
