@@ -4,3 +4,4 @@ logs/
 database/
 config/printer-backup.cfg
 *.secrets
+config/gcodes-*.zip
